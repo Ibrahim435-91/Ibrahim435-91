@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ibrahim435-91
-- 👀 I’m interested in working in prjects
+- 👀 I’m interested in working in projects
 - 🌱 I’m currently learning Vue Js and after that Laravel
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
